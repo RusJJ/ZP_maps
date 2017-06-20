@@ -1,0 +1,25 @@
+Description
+-----------
+A group of survivors seek refuge in a farmhouse down highway 24 in Barnesdale. The nearby city was a warzone and it doesn't seem like this newfound safehouse is any better. Where will you go from here?
+
+Objectives
+----------
+
+1. Defend the house at all cost.
+2. Find a safe way to the barn.
+3. Radio the military.
+4. Notify the military convoy down the highway.
+5. Escape with the veichle on the road!
+
+----------------------
+Map info:
+
+Original map by Darth_Brush
+Converted and fixed (objectives etc) by Cheque
+Updates and additional fixes by Tatsur0 and Wazanator
+Custom materials by Slimz and Kan3.
+Updates and fixes (2016) by Tabajara
+
+----------------------
+Post bugs on the boards www.zombiepanic.org/forums
+----------------------

@@ -1,0 +1,18 @@
+----------------------
+zps_haunted
+----------------------
+Description:
+
+Location, outlands.  You arrived by taxi to an abandoned house, you were led there by a call about a disturbance.  Fight your way throughout the building and the fisherman's cabin.  Be careful walking through the water, zombies can be at an advantage down there.    
+----------------------
+Map info:
+
+Original map by Knights
+Updates and fixes (2016) by Tabajara
+
+Max players: 24
+Recommended: 8-18
+----------------------
+Post bugs on the boards www.zombiepanic.org/forums
+----------------------
+

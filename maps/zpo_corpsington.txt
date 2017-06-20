@@ -1,0 +1,23 @@
+Your boat has finally given up, but you have not.  The situation in this town looks grim.  Luckily there are clues that a safehouse is nearby.  Let's find it!
+
+SURVIVORS:
+----------
+
+1) Break your way into the shipping office.
+2) Open the large warehouse.
+3) Destroy the fusebox to make the cargo container fall
+4) Cross over the fallen cargo container into the upper floor
+5) Get to the street
+6) Push the generator to the safehouse
+7) Seal the doors to the safehouse!
+
+
+ZOMBIES:
+--------
+
+Your goal as a zombie is to stop the survivors from doing any of these things, including breathing.
+
+
+INFO:
+
+Map created by E-Arkham (Kep Pump), July 2010 to January 2011.

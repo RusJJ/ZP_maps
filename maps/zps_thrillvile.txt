@@ -1,0 +1,24 @@
+-----------
+Description
+-----------
+Hiding out in a rundown amusement park seemed like a good idea at the time...
+
+SURVIVORS:
+---------- 
+Last man standing!  Survive by killing all the zombies.  You have ONE life so make it count.
+
+ZOMBIES:
+--------
+Kill all survivors.  You have limited lives, so don't waste them pointlessly!
+
+
+Map Info
+-----------
+
+Original map by Dr. Robot and EArkham (Kep Pump).
+
+Max players: 24
+Recommended: 8 - 24
+----------------------
+Post bugs on the boards www.zombiepanic.org/forums
+----------------------

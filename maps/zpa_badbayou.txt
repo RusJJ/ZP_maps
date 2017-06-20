@@ -1,0 +1,21 @@
+Storyline:
+----------
+
+This small docks area was abandoned long ago. After your boat broke down, you've been stranded here.
+The old generator is running now and you must Survive in the house until you are ready to move down river again.
+
+It's quiet here, almost too quiet. I think something is moving in the water...
+
+If you are living in constant danger on the run, it is hard to find the feeling of safety that only a loving home can give you.
+This is your new home, fight for it!
+
+
+Hints
+-----
+-If Zombies capture more Sideobjectives, they will gain new entrances to the house.
+-Zombies will also access new Spawnpoints closer to the house.
+-Lights will go out in the house if Zombies are capturing more points.
+
+Author
+------
+DrRobot

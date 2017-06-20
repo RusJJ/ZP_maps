@@ -1,0 +1,24 @@
+Description
+-----------
+You got out of the city, but survival in a small town has been even worse.  There's an old marina nearby.  Maybe there's a boat we can use to get the hell out of here!
+
+Objective:
+----------
+
+1) Move the generator cart so that the water can be pumped out of the boat.
+2) Find parts to repair the boat ignition (gas station, junkyard).
+3) Retool parts in warehouse machine shop (35 seconds).
+4) Find fresh battery for boat ignition (warehouses, self storage).
+5) Find keys to the baitshop boat fuel station (hotel, restaurant).
+6) Refuel the boat (1 minute).
+7) Start the boat and escape!
+
+----------------------
+Map info:
+
+Original map by E-Arkham (Kep Pump), August-September 2009.
+Updates and fixes (2016) by Tabajara.
+
+----------------------
+Post bugs on the boards www.zombiepanic.org/forums
+----------------------

@@ -1,0 +1,16 @@
+-----------
+Description
+-----------
+Survivors followed a radio broadcast sent from this subway station hoping to find some shelter and supplies here. It looks like the place is overrun though, there seems to be nobody around, except for the survivors
+who just arrived here by train. Still, it sounds like there's somebody or something lurking around.. You should check out what's going on here.
+
+Map Info
+-----------
+
+Original map by SotaPoika
+
+Max players: 24
+Recommended: 8 - 24
+----------------------
+Post bugs on the boards www.zombiepanic.org/forums
+----------------------

@@ -1,0 +1,18 @@
+----------------------
+zps_policestation
+----------------------
+Description:
+
+Location, New York city.  A policestation has been taken over by zombies.  The top floor is on fire and the rest of the structure is slowly being destroyed. Fight your way through the building and the chaos throughout it.   
+----------------------
+Map info:
+
+Original map by Knights
+Updates and fixes (2016) by Tabajara
+
+Max players: 24
+Recommended: 8-24
+----------------------
+Post bugs on the boards www.zombiepanic.org/forums
+----------------------
+

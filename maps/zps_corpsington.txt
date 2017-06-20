@@ -1,0 +1,18 @@
+----------------------
+zps_corpsington
+----------------------
+Description:
+
+After reaching the safehouse and living with a horde of zombies at our doorstep for the last two months, we have depleted our supplies. It sounds like the zombies have scattered so this is the time to move out. There's no EVAC coming to get us, and we got no other place to go. We'll need to clear this area of zombies so we can safely gather supplies for the safehouse. 
+
+----------------------
+Map info:
+
+Original map by E-Arkham (Kep Pump)
+Reworked by Wazanator and Tabajara (2016)
+
+Max players: 24
+Recommended: 12-24
+----------------------
+Post bugs on the boards www.zombiepanic.org/forums
+----------------------

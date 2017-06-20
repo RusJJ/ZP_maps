@@ -1,0 +1,14 @@
+Storyline:
+----------
+
+It has been several months since the infection devastated your city.  There has been no word from the outside world in weeks and you fear the worst.
+
+You've banded together with the last known survivors in town, who have managed to keep power running in a few buildings via diesel generators. Word has just come in from your scouts, the infected are headed this way, and there are a lot of them.
+
+Your only hope at surviving past the next few hours is to defend the park where the last working engine in town is being refit. Luckily your group has been preparing for a similar scenario and has hidden gun and supply caches around the town center.
+
+Hints
+-----
+-Both survivors and zombies can capture secondary objectives
+-Once the survivors have failed 3 secondary objectives their spawn is pushed back to the hotel
+-Don't leave the park undefended for too long or you risk losing it to the undead horde

@@ -1,0 +1,1 @@
+List of maps which can be used for server as FastDL

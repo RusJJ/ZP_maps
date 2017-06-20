@@ -1,0 +1,28 @@
+                            Storyline
+----------
+You and your fellow survivors have found a scientist who claims to be able to make an antivirus, protect him while he works on it.
+
+Objectives
+----------
+
+1. Defend the Scientist
+2. Grab the antivirus
+3. Escape
+
+Hints
+-----
+- Keep the generator fueld if you want the traps to stay on
+- If you need more guns or health kits fuel the generator on the second floor then use the computer to call for a supply drop
+- Zombies can enter through a lot of different entrances keep your ears open.
+- Be sure to have someone always defending the scientist
+
+Credits
+----------
+Original Author and idea: Knights
+Created the objectives and tweaked parts of the map: Wazanator
+Special thanks to Johny for helping to improve the frame rate.
+
+----------------------
+Post bugs on the boards www.zombiepanic.org/forums
+----------------------
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

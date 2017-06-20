@@ -1,0 +1,30 @@
+Description
+-----------
+You and a group of survivors decend into the city's subway system. Days pass by and the station is no longer safe. The group decides to gather supplies and escape by train.
+
+Objective
+-----------
+Escape the subway system by train
+
+1. Find the generator key
+2. Activate the generator (2 min)
+3. Break into maintainance room 
+4. Activate secondary generator (1 min), 
+5. Unlock platform 1 track door (at security room)
+6. Activate train at generator room
+7. Escape!
+
+----------------------
+Map info:
+
+Original map by Klam
+Updates and fixes (2016) by Tabajara
+
+----------------------
+Post bugs on the boards www.zombiepanic.org/forums
+----------------------
+
+
+
+
+

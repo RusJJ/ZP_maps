@@ -1,0 +1,19 @@
+----------------------
+zps_deadend
+----------------------
+Description:
+
+Fight your way through the streets of this small part of town.  Survive the zombies and find a nice high place to stay protected.  There's a church that can offer some shelter for survivors but it wont last long without teamwork. 
+
+----------------------
+Map info:
+
+Original map by Knights
+Updates and fixes (2016) by Tabajara
+
+Max players: 24
+Recommended: 8-24
+----------------------
+Post bugs on the boards www.zombiepanic.org/forums
+----------------------
+

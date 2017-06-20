@@ -1,0 +1,18 @@
+-------------
+zps_keretti 
+-------------
+Description:
+
+We managed to close off the source of the infection and cleared the area of infected miners and workers. We are now waiting for help. However, the explosion alerted more zombies in the area and they are now coming our way.  The military radioed us, they should be here by morning. We are gonna have to make it through the night if we are to survive this.
+
+------------------------------
+Map info:
+
+Original map by Mage_ofOld
+Redesigned (2016) by Tabajara
+
+Max players: 24
+Recommended: 12-24
+----------------------
+Post bugs on the boards www.zombiepanic.org/forums
+----------------------

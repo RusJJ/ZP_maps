@@ -1,1 +1,3 @@
-List of maps which can be used for server as FastDL
+Maps from ZPS lower than 3.0
+
+You can use it like FastDL ...
